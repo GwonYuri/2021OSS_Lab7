@@ -1,2 +1,2 @@
 lab7_2
-Local Repo 이력 변경
+충돌 해결!
